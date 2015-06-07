@@ -9,6 +9,7 @@ pkgbase = apitest-git
 	license = Unlicense
 	makedepends = cmake
 	source = git+https://github.com/nvMcJohn/apitest.git
+	sha256sums = SKIP
 
 pkgname = apitest-git
 
